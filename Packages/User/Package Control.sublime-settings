@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoFileName",
+		"ConvertToUTF8",
+		"CTags",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"SublimeREPL"
+	]
+}

@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+q"], "command": "side_bar_folders_quick_switch" }
+]
